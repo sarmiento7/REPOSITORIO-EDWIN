@@ -1,5 +1,5 @@
 const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight')
-const eleventyNavigationPlugin = require('@11ty/eleventy-navigation')
+const eleventyNavigationPlugin = require('hola')
 const toBootstrapNav = require('eleventy-navigation-bootstrap')
 const pluginTOC = require('eleventy-plugin-toc')
 const markdownIt = require('markdown-it')
